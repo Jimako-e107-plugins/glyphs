@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="Glyphs" lan="" version="1.0.0" date="2024-12-16" compatibility="2.3.3" installRequired="true" >
+	<author name="Jimako" url="" />
+	<summary lan="">Glyphs</summary>
+	<description lan="">Glyphs</description>
+	<keywords>
+		<word>content</word>
+		<word>job</word>
+		<word>plugin</word>
+	</keywords>
+	<category>content</category>
+	<copyright>Jimako</copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="icon_glyphs128.jpg" iconSmall="icon_glyphs128.jpg" icon128="icon_glyphs128.jpg" primary="true" >LAN_CONFIGURE</link>
+  </adminLinks>
+	<pluginPrefs>
+	</pluginPrefs>
+</e107Plugin>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Glyphs>
+	<glyphicons>
+		<glyph name='ionicons' 		  pattern='\.(ion-[a-z-]*):before\{'  path='{e_PLUGIN}glyphs/ionicons/css/ionicons.min.css' prefix='ion-' tag='i' />
+		<glyph name='pixeden' 		  pattern='\.(pe-7s-[a-z-0-9]*):before\{'  path='{e_PLUGIN}glyphs/pixeden/css/pe-icon-7-stroke.css' class='pe' prefix='pe-7s-'   tag='span' />
+		<glyph name='bootstrapicons'  pattern='\.(bi-[a-z-]*)::before\{'  path='{e_PLUGIN}glyphs/bootstrapicons/font/bootstrapicons.min.css' prefix='bi-' tag='i' />
+		<glyph name='lineicons'       pattern='\.(lni-[a-z-]*)::before\{' path='{e_PLUGIN}glyphs/lineicons/css/lineicons.min.css' class='lni' prefix='lni' tag='i' />
+	</glyphicons>
+</e107Glyphs>
+ 
+ 
