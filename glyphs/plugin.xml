@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<e107Plugin name="Glyphs" lan="" version="1.0.0" date="2024-12-16" compatibility="2.3.3" installRequired="true" >
+<e107Plugin name="Glyphs" lan="" version="1.0.1" date="2024-12-16" compatibility="2.3.3" installRequired="true" >
 	<author name="Jimako" url="" />
 	<summary lan="">Glyphs</summary>
 	<description lan="">Glyphs</description>
